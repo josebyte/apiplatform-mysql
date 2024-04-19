@@ -527,8 +527,6 @@
                 "oci8",
                 "oracle",
                 "pdo",
-                "pgsql",
-                "postgresql",
                 "queryobject",
                 "sasql",
                 "sql",
